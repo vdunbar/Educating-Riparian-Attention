@@ -1,4 +1,6 @@
-## Subject* [April](April.html)
+## Subject
+
+* [April](April.html)
 * [August](August.html)
 * [bank](bank.html)
 * [Brandt's Creek](Brandt's Creek.html)
